@@ -1,0 +1,8 @@
+# Mythology + Gaming Inspired Keywords
+
+yudh     => if
+kriya    => else
+chakra   => while
+arambh[  => {
+]samapt  => }
+praapt   => =

@@ -1,0 +1,18 @@
+x praapt 10;
+y praapt 1;
+
+yudh (x > 5) arambh
+    z praapt x + y;
+samapt
+
+chakra (y < 5) arambh
+    y praapt y + 1;
+    x praapt x - 1;
+samapt
+
+yudh (x == 5) arambh
+    a praapt x * 2;
+samapt
+kriya arambh
+    a praapt x / 2;
+samapt
